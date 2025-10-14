@@ -1,0 +1,26 @@
+
+
+# ---- General ----
+project_name: "VeriGraph"
+use_gpu: true
+fp16: true
+
+# ---- Model Checkpoints ----
+contradiction_ckpt: "/content/drive/MyDrive/VeriGraph_Colab/checkpoints/final_model_082638.pt"
+explanation_ckpt: "/content/drive/MyDrive/VeriGraph_Colab/exp_gen_checkpoints/final_model_101045"
+
+# ---- Dataset ----
+eval_dataset: "data/test_set.jsonl"
+num_samples: 100
+
+# ---- Evaluation Settings ----
+threshold: 0.5
+generate_explanations: true
+verify_explanations: true
+max_new_tokens: 80
+save_graphs: true
+save_json_output: true
+
+# ---- Output ----
+results_path: "data/test_set.jsonl"
+graphs_path: "data/sample_graphs.jsonl"

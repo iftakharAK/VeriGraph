@@ -1,0 +1,36 @@
+
+# ---- General ----
+project_name: "VeriGraph"
+seed: 42
+use_gpu: true
+fp16: true
+save_strategy: "epoch"
+num_train_epochs: 3
+logging_steps: 25
+
+# ---- Model ----
+encoder_model: "microsoft/deberta-v3-small"
+explanation_model: "google/flan-t5-base"
+
+# ---- Dataset ----
+train_dataset: "data/dataset.jsonl"
+explanation_dataset: "data/dataset_explanations.jsonl"
+max_seq_length: 128
+max_target_length: 64
+
+# ---- Training Hyperparameters ----
+per_device_train_batch_size: 8
+learning_rate: 2e-5
+weight_decay: 0.01
+warmup_ratio: 0.1
+gradient_accumulation_steps: 2
+save_total_limit: 3
+
+# ---- Optimizer ----
+optimizer: "adamw"
+scheduler: "linear"
+
+# ---- Output ----
+output_dir: "checkpoints/"
+save_checkpoints_every_steps: 500
+log_dir: "logs/"

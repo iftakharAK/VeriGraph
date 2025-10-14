@@ -1,0 +1,20 @@
+
+# ---- Base Directories ----
+base_dir: "/content/drive/MyDrive/VeriGraph_Colab"
+data_dir: "/content/drive/MyDrive/VeriGraph_Colab"
+checkpoints_dir: "/content/drive/MyDrive/VeriGraph_Colab/checkpoints"
+exp_gen_checkpoints: "/content/drive/MyDrive/VeriGraph_Colab/exp_gen_checkpoints"
+logs_dir: "/content/drive/MyDrive/VeriGraph_Colab/logs"
+
+# ---- Data Files ----
+dataset_train: "/content/drive/MyDrive/VeriGraph_Colab/dataset.jsonl"
+dataset_explanations: "/content/drive/MyDrive/VeriGraph_Colab/dataset_explanations.jsonl"
+dataset_inference: "/content/drive/MyDrive/VeriGraph_Colab/verigraph_multistatement_input.jsonl"
+
+# ---- Outputs ----
+output_results: "/content/drive/MyDrive/VeriGraph_Colab/verigraph_multistatement_outputs.jsonl"
+output_graphs: "/content/drive/MyDrive/VeriGraph_Colab/sample_graphs.jsonl"
+
+# ---- Models ----
+contradiction_model_ckpt: "/content/drive/MyDrive/VeriGraph_Colab/checkpoints/final_model_082638.pt"
+explanation_model_ckpt: "/content/drive/MyDrive/VeriGraph_Colab/exp_gen_checkpoints/final_model_101045"

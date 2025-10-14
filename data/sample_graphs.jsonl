@@ -1,100 +1,88 @@
-{"statements": ["Water boils at 100\u00b0C.", "Water does not boil at 100\u00b0C.", "At sea level, water turns into vapor at 100\u00b0C."]}
-{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."]}
-{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."]}
-{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."]}
-{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."]}
-{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."]}
-{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."]}
-{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."]}
-{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."]}
-{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."]}
-{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."]}
-{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."]}
-{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."]}
-{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."]}
-{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."]}
-{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."]}
-{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."]}
-{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."]}
-{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."]}
-{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."]}
-{"statements": ["Water boils at 100\u00b0C.", "Water does not boil at 100\u00b0C.", "At sea level, water turns into vapor at 100\u00b0C."]}
-{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."]}
-{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."]}
-{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."]}
-{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."]}
-{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."]}
-{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."]}
-{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."]}
-{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."]}
-{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."]}
-{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."]}
-{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."]}
-{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."]}
-{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."]}
-{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."]}
-{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."]}
-{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."]}
-{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."]}
-{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."]}
-{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."]}
-{"statements": ["Water boils at 100\u00b0C.", "Water does not boil at 100\u00b0C.", "At sea level, water turns into vapor at 100\u00b0C."]}
-{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."]}
-{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."]}
-{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."]}
-{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."]}
-{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."]}
-{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."]}
-{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."]}
-{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."]}
-{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."]}
-{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."]}
-{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."]}
-{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."]}
-{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."]}
-{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."]}
-{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."]}
-{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."]}
-{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."]}
-{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."]}
-{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."]}
-{"statements": ["Water boils at 100\u00b0C.", "Water does not boil at 100\u00b0C.", "At sea level, water turns into vapor at 100\u00b0C."]}
-{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."]}
-{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."]}
-{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."]}
-{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."]}
-{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."]}
-{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."]}
-{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."]}
-{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."]}
-{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."]}
-{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."]}
-{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."]}
-{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."]}
-{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."]}
-{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."]}
-{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."]}
-{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."]}
-{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."]}
-{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."]}
-{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."]}
-{"statements": ["Water boils at 100\u00b0C.", "Water does not boil at 100\u00b0C.", "At sea level, water turns into vapor at 100\u00b0C."]}
-{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."]}
-{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."]}
-{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."]}
-{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."]}
-{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."]}
-{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."]}
-{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."]}
-{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."]}
-{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."]}
-{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."]}
-{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."]}
-{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."]}
-{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."]}
-{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."]}
-{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."]}
-{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."]}
-{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."]}
-{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."]}
-{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."]}
+{
+  "id": 0,
+  "statements": [
+    "Water boils at 100°C at sea level.",
+    "Water does not boil at 100°C.",
+    "At higher altitudes, water boils at lower temperatures.",
+    "Boiling point depends on atmospheric pressure."
+  ],
+  "edges": [
+    {"source": 0, "target": 1, "type": "contradiction", "score": 0.94,
+     "explanation": "One states water boils at 100°C while the other denies it."},
+    {"source": 0, "target": 2, "type": "non-contradiction", "score": 0.22},
+    {"source": 0, "target": 3, "type": "non-contradiction", "score": 0.19},
+    {"source": 1, "target": 3, "type": "contradiction", "score": 0.89,
+     "explanation": "Statement 1 ignores pressure dependence discussed in statement 3."}
+  ],
+  "graph_summary": "Contradiction detected between statements (0,1) and (1,3). Others are consistent under contextual reasoning."
+}
+{
+  "id": 1,
+  "statements": [
+    "The Earth revolves around the Sun.",
+    "The Sun revolves around the Earth.",
+    "A year is the time it takes Earth to orbit the Sun."
+  ],
+  "edges": [
+    {"source": 0, "target": 1, "type": "contradiction", "score": 0.96,
+     "explanation": "Each claims opposite directions of revolution."},
+    {"source": 0, "target": 2, "type": "non-contradiction", "score": 0.11},
+    {"source": 1, "target": 2, "type": "contradiction", "score": 0.91,
+     "explanation": "Statement 1 and 2 disagree with the factual definition of a year."}
+  ],
+  "graph_summary": "Central contradiction between (0,1). Node 2 supports 0, opposing 1."
+}
+{
+  "id": 2,
+  "statements": [
+    "COVID-19 is caused by a virus.",
+    "COVID-19 is caused by bacteria.",
+    "Viruses and bacteria are different.",
+    "Vaccines prevent viral infections."
+  ],
+  "edges": [
+    {"source": 0, "target": 1, "type": "contradiction", "score": 0.94,
+     "explanation": "They propose mutually exclusive causes of COVID-19."},
+    {"source": 0, "target": 2, "type": "non-contradiction", "score": 0.07},
+    {"source": 0, "target": 3, "type": "non-contradiction", "score": 0.12},
+    {"source": 1, "target": 2, "type": "contradiction", "score": 0.91,
+     "explanation": "Statement 2 conflicts with scientific distinction stated in 2."},
+    {"source": 1, "target": 3, "type": "contradiction", "score": 0.86,
+     "explanation": "Vaccines target viruses, not bacteria, so these disagree conceptually."}
+  ],
+  "graph_summary": "Contradiction cluster centered at node 1. Statements 0 and 3 are mutually consistent."
+}
+{
+  "id": 3,
+  "statements": [
+    "Birds can fly.",
+    "Penguins cannot fly.",
+    "Penguins are birds.",
+    "Most birds have wings."
+  ],
+  "edges": [
+    {"source": 0, "target": 1, "type": "non-contradiction", "score": 0.18},
+    {"source": 0, "target": 2, "type": "non-contradiction", "score": 0.09},
+    {"source": 1, "target": 2, "type": "non-contradiction", "score": 0.08},
+    {"source": 2, "target": 3, "type": "non-contradiction", "score": 0.07}
+  ],
+  "graph_summary": "No direct contradictions detected; relationships are contextually consistent."
+}
+{
+  "id": 4,
+  "statements": [
+    "The heart pumps blood throughout the body.",
+    "Blood circulates because of muscle contractions.",
+    "The heart does not pump blood.",
+    "Oxygenated blood travels from the lungs to the heart."
+  ],
+  "edges": [
+    {"source": 0, "target": 2, "type": "contradiction", "score": 0.95,
+     "explanation": "One asserts heart pumps blood; the other denies it."},
+    {"source": 0, "target": 1, "type": "non-contradiction", "score": 0.19},
+    {"source": 1, "target": 2, "type": "contradiction", "score": 0.91,
+     "explanation": "Statements 1 and 2 disagree on the main cause of circulation."},
+    {"source": 0, "target": 3, "type": "non-contradiction", "score": 0.11}
+  ],
+  "graph_summary": "Primary contradictions between statements (0,2) and (1,2); others remain factual and consistent."
+}
