@@ -1,0 +1,59 @@
+{"statements": ["Water boils at 100°C.", "Water does not boil at 100°C.", "At sea level, water turns into vapor at 100°C."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["The sky is blue.", "The sky is not blue.", "Clouds can make the sky white."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Earth revolves around the Sun.", "The Sun revolves around the Earth.", "The Earth orbits the Sun once a year."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["Humans need oxygen to survive.", "Humans can live without oxygen.", "Oxygen is essential for human life."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["Dogs are mammals.", "Dogs are reptiles.", "Cats and dogs are both mammals."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The heart pumps blood.", "The heart does not pump blood.", "Blood circulation depends on the heart."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["COVID-19 is caused by a virus.", "COVID-19 is caused by bacteria.", "Viruses and bacteria are different."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Bananas are fruits.", "Bananas are vegetables.", "Fruits usually contain seeds."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Pacific Ocean is the largest ocean.", "The Atlantic Ocean is the largest ocean.", "The Pacific Ocean covers one-third of the Earth."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Fire is cold.", "Fire is hot.", "Flames produce heat."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["A triangle has three sides.", "A triangle has four sides.", "A square has four sides."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Earth is flat.", "Earth is spherical.", "Satellites orbit a round Earth."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Light travels faster than sound.", "Sound travels faster than light.", "Lightning is seen before thunder is heard."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Ice melts when heated.", "Ice freezes when heated.", "Heat turns ice into water."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Plants make oxygen.", "Plants consume oxygen.", "Photosynthesis releases oxygen."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Gold is a metal.", "Gold is a gas.", "Gold is solid at room temperature."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The moon emits light.", "The moon reflects light.", "Moonlight is sunlight reflected from the moon."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Birds can fly.", "Penguins cannot fly.", "Penguins are birds."], "labels": [[0,0,0],[0,0,0],[0,0,0]]}
+{"statements": ["Water is colorless.", "Water is blue.", "Pure water has no color."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Bats are blind.", "Bats can see.", "Bats use echolocation to navigate."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Vaccines prevent disease.", "Vaccines cause disease.", "Vaccines build immunity."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Electric current flows in conductors.", "Electric current flows in insulators.", "Copper conducts electricity."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Fish can breathe underwater.", "Fish cannot breathe underwater.", "Gills allow fish to extract oxygen from water."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["A kilogram is heavier than a gram.", "A gram is heavier than a kilogram.", "1000 grams make 1 kilogram."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["Cars need fuel to run.", "Cars can run without fuel.", "Electric cars run on electricity."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Earth has one moon.", "Earth has two moons.", "Mars has two moons."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Hot air rises.", "Cold air rises.", "Hot air is less dense than cold air."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Sound cannot travel in vacuum.", "Sound can travel in vacuum.", "Vacuum has no air molecules."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["Gravity pulls objects down.", "Gravity pushes objects up.", "Objects fall towards Earth due to gravity."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Amazon rainforest is in South America.", "The Amazon rainforest is in Africa.", "The Amazon covers multiple South American countries."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The Sahara is a desert.", "The Sahara is a forest.", "Deserts are dry regions."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Winter is cold.", "Winter is hot.", "Summer is hotter than winter."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The brain controls the body.", "The brain does not control the body.", "The nervous system is led by the brain."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The internet works without electricity.", "The internet requires electricity.", "Servers need power to stay online."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Rain forms from water vapor.", "Rain forms from dust.", "Condensation turns vapor into droplets."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The capital of France is Paris.", "The capital of France is Berlin.", "Paris is located in France."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Sharks are fish.", "Sharks are mammals.", "Whales are mammals."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Earth rotates once every 24 hours.", "The Earth rotates once every 48 hours.", "A day equals one rotation of the Earth."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Plants absorb carbon dioxide.", "Plants release carbon dioxide.", "Plants use CO2 for photosynthesis."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Blood is red.", "Blood is blue.", "Oxygenated blood is red."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Humans can breathe underwater.", "Humans cannot breathe underwater.", "Scuba divers use tanks to breathe underwater."], "labels": [[0,1,0],[1,0,1],[0,1,0]]}
+{"statements": ["Bacteria are multicellular.", "Bacteria are unicellular.", "Each bacterium consists of a single cell."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Statue of Liberty is in New York.", "The Statue of Liberty is in Paris.", "The statue is located on Liberty Island."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Iron is magnetic.", "Iron is non-magnetic.", "Magnets attract iron."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Honey is produced by bees.", "Honey is made by ants.", "Bees collect nectar to make honey."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The human body has 206 bones.", "The human body has 300 bones.", "Babies have more bones that fuse later."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Paper burns easily.", "Paper does not burn.", "Fire consumes paper quickly."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Diamonds are soft.", "Diamonds are hard.", "Diamonds are used to cut glass."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Mars is closer to the Sun than Earth.", "Mars is farther from the Sun than Earth.", "Venus is closer to the Sun than Earth."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["The Great Wall of China is in Japan.", "The Great Wall of China is in China.", "It stretches across northern China."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Energy cannot be created or destroyed.", "Energy can be created from nothing.", "Energy can change forms."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Milk comes from cows.", "Milk comes from trees.", "Almond milk is plant-based."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Chocolate is sweet.", "Chocolate is sour.", "Sugar makes chocolate sweet."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["A year has 12 months.", "A year has 10 months.", "A decade has 10 years."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Lions are carnivores.", "Lions are herbivores.", "Lions eat meat."], "labels": [[0,1,0],[1,0,0],[0,0,0]]}
+{"statements": ["Humans have two lungs.", "Humans have one lung.", "Each lung helps in breathing."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Earth’s gravity pulls inward.", "Earth’s gravity pushes outward.", "Gravity keeps objects grounded."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["The human brain has neurons.", "The human brain has no neurons.", "Neurons transmit signals in the brain."], "labels": [[0,1,0],[1,0,1],[0,0,0]]}
+{"statements": ["Birds lay eggs.", "Mammals lay eggs.", "Most mammals give birth to live young."], "labels": [[0,0,0],[0,0,0],[0,0,0]]}
