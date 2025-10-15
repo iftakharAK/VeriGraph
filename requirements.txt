@@ -1,0 +1,31 @@
+
+# --- Core Libraries ---
+torch>=2.2.0
+transformers>=4.39.0
+datasets>=2.19.0
+accelerate>=0.29.0
+bitsandbytes>=0.43.0
+
+# --- Graph Reasoning (DGL / GNN Support) ---
+dgl-cu121>=1.1.3  # use 'dgl' if not using CUDA 12.1
+
+# --- Fine-Tuning & Training Utilities ---
+peft>=0.8.2
+scikit-learn>=1.4.0
+numpy>=1.26.0
+scipy>=1.12.0
+pandas>=2.2.0
+
+# --- Visualization & Evaluation ---
+matplotlib>=3.8.0
+networkx>=3.2.1
+seaborn>=0.13.2
+
+# --- Logging, Utilities & Configs ---
+tqdm>=4.66.0
+pyyaml>=6.0
+jsonlines>=4.0.0
+
+# --- Jupyter Support (Optional) ---
+notebook>=7.0.6
+jupyter>=1.0.0
