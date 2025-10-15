@@ -1,4 +1,4 @@
-# 🧠 VeriGraph: Multi-Statement Contradiction Detection with Verified Explanations
+# VeriGraph: Multi-Statement Contradiction Detection with Verified Explanations
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.2%2B-red.svg)](https://pytorch.org/)
@@ -7,22 +7,22 @@
 
 ---
 
-### 🧩 Overview
+###  Overview
 
 **VeriGraph** is a scalable framework for **multi-statement contradiction detection** and **explanation generation**.  
 It integrates DeBERTa-based encoding, graph-based reasoning, and T5/DeepSeek explanation generation with self-reflection verification.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
-### 🧩 Option 1 — Using Conda
+###  Option 1 — Using Conda
 ```bash
 conda env create -f environment.yml
 conda activate verigraph_env
 ```
 
-### 🧩 Option 2 — Using venv + pip
+###  Option 2 — Using venv + pip
 ```bash
 python -m venv verigraph_env
 source verigraph_env/bin/activate     # (Linux/Mac)
@@ -33,30 +33,23 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Running Demos
+## Running Demos
 
-**1️⃣ Contradiction Detection**
+**1️Contradiction Detection**
 ```bash
 python notebooks/VeriGraph_demo.ipynb
 ```
-**Example Output:**
-```
-"Water boils at 100°C." ↔ "Water does not boil at 100°C." → CONTRADICTION (0.94)
-```
 
-**2️⃣ Explanation Generation**
+
+**2️Explanation Generation**
 ```bash
 python notebooks/Explanation_examples.ipynb
 ```
-**Example Output:**
-```
-Input: "Water boils at 100°C." vs "Water does not boil at 100°C."
-Output: "These statements contradict because one denies the other."
-```
+
 
 ---
 
-## 🧠 Model Components
+##  Model Components
 
 | Module | Function |
 |---------|-----------|
@@ -69,20 +62,11 @@ Output: "These statements contradict because one denies the other."
 
 ---
 
-## 📊 Citation
 
-```
-@article{Khandokar2025VeriGraph,
-  author    = {Iftakhar Ali Khandokar and Priya Deshpande},
-  title     = {VeriGraph: Scalable Multi-Statement Contradiction Detection with Verified Explanations and Knowledge-Guided Reasoning},
-  journal   = {Under review, IEEE TNNLS / Knowledge-Based Systems},
-  year      = {2025}
-}
-```
 
 ---
 
-## 📜 License
+##  License
 Released under the [MIT License](./LICENSE).
 
 ---
