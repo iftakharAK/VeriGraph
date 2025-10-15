@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.2%2B-red.svg)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/Transformers-4.39%2B-yellow.svg)](https://huggingface.co/transformers/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dM8rE5qXXXXXXX?usp=sharing)
+[![Hugging Face](https://img.shields.io/badge/Transformers-4.39%2B-yellow.svg)]
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ---
 
